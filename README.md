@@ -63,8 +63,18 @@ purposes.
 - Seaborn
 - Jupyter Notebook
 
+## Example Visualizations
+
+### Setlist Heatmap
+The heatmap below shows the position of frequently played songs across concerts,
+highlighting the stability of the tour setlist structure.
+
+![Setlist heatmap](images/setlist_heatmap.png)
+
 ## How to Run
 
+- Run The Radiohead.ipynb File using Jupyter Notebook
+    
 ```bash
 pip install pandas numpy matplotlib seaborn
 jupyter notebook
