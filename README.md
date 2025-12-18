@@ -69,7 +69,7 @@ purposes.
 The heatmap below shows the position of frequently played songs across concerts,
 highlighting the stability of the tour setlist structure.
 
-![Setlist heatmap](images/Setlist_Heatmap.png)
+![Setlist heatmap](Plots/Setlist_Heatmap.png)
 
 ## How to Run
 
