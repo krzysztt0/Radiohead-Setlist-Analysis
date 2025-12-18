@@ -17,6 +17,18 @@ The main objectives were to:
 The project emphasizes exploratory data analysis (EDA) rather than prediction
 or machine learning.
 
+## Motivation & Attribution
+
+This project was created as a personal, passion-driven analysis combining
+an interest in music with data exploration and visualization.
+
+The dataset is based on a publicly shared spreadsheet tracking Radiohead’s
+2025 tour setlists, originally compiled and maintained by Reddit user
+**u/danielcloutier** on the Radiohead subreddit.
+
+The data was used solely for non-commercial, educational, and portfolio
+purposes.
+
 ## Dataset
 
 - Source: Manually tracked concert setlists
